@@ -1779,11 +1779,12 @@ ul.mega-menu {
 		}
 	
 		.gla_logo {
-			font:900 24px/18px Dosis, Arial;
-			color:#333;
+			/*font:900 24px/18px Dosis, Arial;*/
+			font: 400 25px Playfair Display, Arial;
+			color: #333;
 			text-transform: uppercase;
 			position: relative;
-			top: 22px;
+			top: 15px;
 			-webkit-transition: all 0.3s;
 			-o-transition: all 0.3s;
 			transition: all 0.3s;
