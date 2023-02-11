@@ -3068,8 +3068,8 @@ ul.mega-menu {
 	z-index: 1;
 	top: 0;
 	margin: -130px 0 0 -125px;
-	-webkit-animation: flower_rotate 125s infinite linear;
-  animation: flower_rotate 125s infinite linear;
+	-webkit-animation: flower_rotate 70s infinite linear;
+  animation: flower_rotate 70s infinite linear;
   -webkit-transform-origin: 51% 52%;
   -moz-transform-origin: 51% 52%;
   -ms-transform-origin: 51% 52%;
@@ -3089,8 +3089,8 @@ ul.mega-menu {
 	z-index: 1;
 	top: 0;
 	margin: -60px 0 0 -55px;
-	-webkit-animation: flower_rotate 425s infinite linear;
-  animation: flower_rotate 425s infinite linear;
+	-webkit-animation: flower_rotate 250s infinite linear;
+  animation: flower_rotate 250s infinite linear;
   -webkit-transform-origin: 50% 50%;
   -moz-transform-origin: 50% 50%;
   -ms-transform-origin: 50% 50%;
@@ -3200,7 +3200,7 @@ ul.mega-menu {
 		border-radius: 50%;
 	}
 .gla_nimated_flower {
-	-webkit-transition-delay: 0.3s;
+	-webkit-transition-delay: 0.1s;
 	-o-transition-delay: 0.3s;
 	transition-delay: 0.3s;
 }
