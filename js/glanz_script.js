@@ -443,6 +443,10 @@
 		var month = $(this).attr('data-month');
 		var day = $(this).attr('data-day');
 		var hour = $(this).attr('data-hour');
+		console.log(year);
+		console.log(month);
+		console.log(day);
+		console.log(hour);
 		$(this).countdown({until: new Date(year,month-1, day, hour)});
 
 	});
